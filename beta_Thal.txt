@@ -1,0 +1,86 @@
+normal:
+1 acatttgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggttggtat caaggttaca agacaggttt aaggagacca
+      181 atagaaactg ggcatgtgga gacagagaag actcttgggt ttctgatagg cactgactct
+      241 ctctgcctat tggtctattt tcccaccctt aggctgctgg tggtctaccc ttggacccag
+      301 aggttctttg agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag
+      361 gtgaaggctc atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac
+      421 aacctcaagg gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat
+      481 cctgagaact tcagggtgag tctatgggac gcttgatgtt ttctttcccc ttcttttcta
+      541 tggttaagtt catgtcatag gaaggggata agtaacaggg tacagtttag aatgggaaac
+      601 agacgaatga ttgcatcagt gtggaagtct caggatcgtt ttagtttctt ttatttgctg
+      661 ttcataacaa ttgttttctt ttgtttaatt cttgctttct ttttttttct tctccgcaat
+      721 ttttactatt atacttaatg ccttaacatt gtgtataaca aaaggaaata tctctgagat
+      781 acattaagta acttaaaaaa aaactttaca cagtctgcct agtacattac tatttggaat
+      841 atatgtgtgc ttatttgcat attcataatc tccctacttt attttctttt atttttaatt
+      901 gatacataat cattatacat atttatgggt taaagtgtaa tgttttaata tgtgtacaca
+      961 tattgaccaa atcagggtaa ttttgcattt gtaattttaa aaaatgcttt cttcttttaa
+     1021 tatacttttt tgtttatctt atttctaata ctttccctaa tctctttctt tcagggcaat
+     1081 aatgatacaa tgtatcatgc ctctttgcac cattctaaag aataacagtg ataatttctg
+     1141 ggttaaggca atagcaatat ctctgcatat aaatatttct gcatataaat tgtaactgat
+     1201 gtaagaggtt tcatattgct aatagcagct acaatccagc taccattctg cttttatttt
+     1261 atggttggga taaggctgga ttattctgag tccaagctag gcccttttgc taatcatgtt
+     1321 catacctctt atcttcctcc cacagctcct gggcaacgtg ctggtctgtg tgctggccca
+     1381 tcactttggc aaagaattca ccccaccagt gcaggctgcc tatcagaaag tggtggctgg
+     1441 tgtggctaat gccctggccc acaagtatca ctaagctcgc tttcttgctg tccaatttct
+     1501 attaaaggtt cctttgttcc ctaagtccaa ctactaaact gggggatatt atgaagggcc
+     1561 ttgagcatct ggattctgcc taataaaaaa catttatttt cattgcaa
+
+mutation 1: (−101 C→T )
+1 acatttgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg taaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggttggtat caaggttaca agacaggttt aaggagacca
+      181 atagaaactg ggcatgtgga gacagagaag actcttgggt ttctgatagg cactgactct
+      241 ctctgcctat tggtctattt tcccaccctt aggctgctgg tggtctaccc ttggacccag
+      301 aggttctttg agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag
+      361 gtgaaggctc atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac
+      421 aacctcaagg gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat
+      481 cctgagaact tcagggtgag tctatgggac gcttgatgtt ttctttcccc ttcttttcta
+      541 tggttaagtt catgtcatag gaaggggata agtaacaggg tacagtttag aatgggaaac
+      601 agacgaatga ttgcatcagt gtggaagtct caggatcgtt ttagtttctt ttatttgctg
+      661 ttcataacaa ttgttttctt ttgtttaatt cttgctttct ttttttttct tctccgcaat
+      721 ttttactatt atacttaatg ccttaacatt gtgtataaca aaaggaaata tctctgagat
+      781 acattaagta acttaaaaaa aaactttaca cagtctgcct agtacattac tatttggaat
+      841 atatgtgtgc ttatttgcat attcataatc tccctacttt attttctttt atttttaatt
+      901 gatacataat cattatacat atttatgggt taaagtgtaa tgttttaata tgtgtacaca
+      961 tattgaccaa atcagggtaa ttttgcattt gtaattttaa aaaatgcttt cttcttttaa
+     1021 tatacttttt tgtttatctt atttctaata ctttccctaa tctctttctt tcagggcaat
+     1081 aatgatacaa tgtatcatgc ctctttgcac cattctaaag aataacagtg ataatttctg
+     1141 ggttaaggca atagcaatat ctctgcatat aaatatttct gcatataaat tgtaactgat
+     1201 gtaagaggtt tcatattgct aatagcagct acaatccagc taccattctg cttttatttt
+     1261 atggttggga taaggctgga ttattctgag tccaagctag gcccttttgc taatcatgtt
+     1321 catacctctt atcttcctcc cacagctcct gggcaacgtg ctggtctgtg tgctggccca
+     1381 tcactttggc aaagaattca ccccaccagt gcaggctgcc tatcagaaag tggtggctgg
+     1441 tgtggctaat gccctggccc acaagtatca ctaagctcgc tttcttgctg tccaatttct
+     1501 attaaaggtt cctttgttcc ctaagtccaa ctactaaact gggggatatt atgaagggcc
+     1561 ttgagcatct ggattctgcc taataaaaaa catttatttt cattgcaa
+
+mutation 2: (I-NT no. 6 (T --> C))
+1 acattcgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggttggtat caaggttaca agacaggttt aaggagacca
+      181 atagaaactg ggcatgtgga gacagagaag actcttgggt ttctgatagg cactgactct
+      241 ctctgcctat tggtctattt tcccaccctt aggctgctgg tggtctaccc ttggacccag
+      301 aggttctttg agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag
+      361 gtgaaggctc atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac
+      421 aacctcaagg gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat
+      481 cctgagaact tcagggtgag tctatgggac gcttgatgtt ttctttcccc ttcttttcta
+      541 tggttaagtt catgtcatag gaaggggata agtaacaggg tacagtttag aatgggaaac
+      601 agacgaatga ttgcatcagt gtggaagtct caggatcgtt ttagtttctt ttatttgctg
+      661 ttcataacaa ttgttttctt ttgtttaatt cttgctttct ttttttttct tctccgcaat
+      721 ttttactatt atacttaatg ccttaacatt gtgtataaca aaaggaaata tctctgagat
+      781 acattaagta acttaaaaaa aaactttaca cagtctgcct agtacattac tatttggaat
+      841 atatgtgtgc ttatttgcat attcataatc tccctacttt attttctttt atttttaatt
+      901 gatacataat cattatacat atttatgggt taaagtgtaa tgttttaata tgtgtacaca
+      961 tattgaccaa atcagggtaa ttttgcattt gtaattttaa aaaatgcttt cttcttttaa
+     1021 tatacttttt tgtttatctt atttctaata ctttccctaa tctctttctt tcagggcaat
+     1081 aatgatacaa tgtatcatgc ctctttgcac cattctaaag aataacagtg ataatttctg
+     1141 ggttaaggca atagcaatat ctctgcatat aaatatttct gcatataaat tgtaactgat
+     1201 gtaagaggtt tcatattgct aatagcagct acaatccagc taccattctg cttttatttt
+     1261 atggttggga taaggctgga ttattctgag tccaagctag gcccttttgc taatcatgtt
+     1321 catacctctt atcttcctcc cacagctcct gggcaacgtg ctggtctgtg tgctggccca
+     1381 tcactttggc aaagaattca ccccaccagt gcaggctgcc tatcagaaag tggtggctgg
+     1441 tgtggctaat gccctggccc acaagtatca ctaagctcgc tttcttgctg tccaatttct
+     1501 attaaaggtt cctttgttcc ctaagtccaa ctactaaact gggggatatt atgaagggcc
+     1561 ttgagcatct ggattctgcc taataaaaaa catttatttt cattgcaa
